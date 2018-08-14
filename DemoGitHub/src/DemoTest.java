@@ -7,9 +7,9 @@ public class DemoTest {
 		
 		System.out.println("Second commit 2st");
 		
-		System.out.println("Third commit 3rd");
-
-		System.out.println("Fourth for David branch");
+		System.out.println("Master commit 3");
+		
+		System.out.println("Master commit 7");
 
 
 		/*
